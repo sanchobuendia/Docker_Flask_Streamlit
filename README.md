@@ -22,5 +22,18 @@ Activate virtualenv
 
 **source env/bin/activate**
 
+## On Windows 11
+
+**mkdir my_python_venv**
+
+INSIDE my_project folder create a new virtualenv
+
+**virtualenv my_python_venv/**
+
+Activate virtualenv
+
+**source ./my_python_venv/bin/activate**
+
+
 
 
