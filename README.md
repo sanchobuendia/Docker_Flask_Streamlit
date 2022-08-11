@@ -12,15 +12,15 @@ To create the python virtual environment first it is necessary to instal the vir
 
 after that, create a folder where the python venv will be installed:
 
-mkdir my_python_venv
+**mkdir my_python_venv**
 
 INSIDE my_project folder create a new virtualenv
 
-virtualenv env
+**virtualenv env**
 
 Activate virtualenv
 
-source env/bin/activate
+**source env/bin/activate**
 
 
 
