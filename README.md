@@ -34,10 +34,6 @@ Activate virtualenv
 
 **.\my_python_venv\Scripts\activate**
 
-If you find a error it can be fixed using the command
-
-**pip install --upgrade setuptools**
-
 
 
 
