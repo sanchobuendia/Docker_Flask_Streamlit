@@ -8,7 +8,7 @@ Initially, to run the Streamlit localy is more interesting to create a python ve
 
 To create the python virtual environment first it is necessary to instal the virtualenv:
 
-pip install virtualenv
+**pip install virtualenv**
 
 after that, create a folder where the python venv will be installed:
 
