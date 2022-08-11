@@ -28,11 +28,11 @@ Activate virtualenv
 
 INSIDE my_project folder create a new virtualenv
 
-**python -m venv my_python_venv**
+**py -m venv my_python_venv**
 
 Activate virtualenv
 
-**./my_python_venv/scripts/activate**
+**.\my_python_venv\Scripts\activate**
 
 If you find a error it can be fixed using the command
 
