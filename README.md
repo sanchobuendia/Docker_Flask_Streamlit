@@ -69,5 +69,6 @@ The following message will appear
 
 ![image](images/link.png)
 
+If the browser does not open automatically you must copy the link and place it in the browser
 
 
