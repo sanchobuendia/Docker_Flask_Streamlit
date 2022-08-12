@@ -6,6 +6,14 @@ The dashboard template has a left three with all parameters configuration and on
 
 ![image](images/three.png)
 
+Analytics page
+![image](images/three.png)
+
+Rules page
+![image](images/three.png)
+
+Patients page
+![image](images/three.png)
 
 Initially, to run the Streamlit localy is more interesting to create a python venv and to install all packages that your application needs inside the venv. The purpose of this is to avoid conflicts with packages already installed on the machine.
 
