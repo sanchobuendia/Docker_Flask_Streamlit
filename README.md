@@ -6,6 +6,10 @@ The dashboard template has a left three with all parameters configuration and on
 
 ![image](images/three.png)
 
+The page options are as follows
+
+![image](images/list_pages.png)
+
 Analytics page
 ![image](images/analytics.png)
 
@@ -63,7 +67,7 @@ streamlit run app.py
 
 The following message will appear
 
-
+![image](images/link.png)
 
 
 
