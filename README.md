@@ -20,7 +20,6 @@ Patients page
 ![image](images/patients.png)
 
 
-
 Initially, to run the Streamlit localy is more interesting to create a python venv and to install all packages that your application needs inside the venv. The purpose of this is to avoid conflicts with packages already installed on the machine.
 
 ## On MacOS
@@ -53,6 +52,8 @@ Activate virtualenv
 
 **.\my_python_venv\Scripts\activate**
 
+# Application structure
+
 ## Run localy
 
 ### Install requirements.txt 
@@ -69,6 +70,8 @@ The following message will appear
 
 ![image](images/link.png)
 
-If the browser does not open automatically you must copy the link and place it in the browser
+If the browser does not open automatically you must copy the link and place it in the browser.
+
+# Using Streamlit Inside Docker Container
 
 
