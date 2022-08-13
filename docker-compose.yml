@@ -1,8 +1,11 @@
-version: "3.7"
+version: '3.7'
+volumes:
+  data:
 services:
-  web:
-    build: .
+  Streamline:
+    restart: always
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
     ports:
-      - "8000:5000"
-  redis:
-    image: "redis:alpine"
+      - "8080:8080"
