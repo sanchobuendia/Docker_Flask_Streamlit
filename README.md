@@ -78,6 +78,20 @@ First of all it is necessary to have docker installed on the machine.
 
 The first step is start the docker, after that we need to understand the Dockefile configuration. 
 
+## docker 
+
+docker build -t streamlitapp:latest .
+
+docker run -p 8501:8501 streamlitapp:latest
+
+## docker compose 
+
+docker-compose build
+
+docker-compose --verbose up
+
+
+
 
 
 
