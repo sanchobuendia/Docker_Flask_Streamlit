@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.7-slim
 
 LABEL Author="Pedro Russo, Aureliano Sancho"
 LABEL E-mail="pedro.russo@grupofleury.com.br, aureliano.paiva@fleury.com.br"
