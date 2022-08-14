@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ped-dev-308120",
+  "private_key_id": "3cb0e68c8f31cbee7e05ae4c382fcf7b22a84c4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDaND9kr3pXujD/\nc5rcFoVz9U8BOM1nEHSXcWE4HS2H1JJQFkheX913nOR+L4A2zAEBeMQaDUp7PUEo\nnnKoCHTFyMqlHIG6V5T833MKiOzwkimPHsf8urF+zP8yHMIyEncZ4dLe/mHr8ABO\npbif2YVgHCYxFbrk7QIjJQnUstVx+nDsWzwc1df6LTUYt3/gOsLpQT1ON9iGGkqO\nh/0Vc7W+Ihjogdo60YAtTXsooN8B9aTuE1xwzvCqQfEa2ezI7hmWf9bOvsFo4MRu\nDawCyUyuKtQ3vx+FxM4H/DOujbaDcxdZLyEM6K0nCCzvirjW5d62Gyt/THRoAgfT\nxcQYit25AgMBAAECggEAC0ES8fT7rjxRXE47SFW1srTjdcXXEOqa24LCsmZi259y\n9Rl+cwumZw3Fr90a/k3dpr9H/KtUfPBnBMV4rBeqOiybMxKPfavDE0XNGlfUl1Xa\njzdVtkBveNbxj0VHc4CwpDpEVNxcSD3RLj1C5/phSYM6KbbxXu77I2fneWZzNtUi\nUr8my1vsgZnCZt0HzGypLMatC5G7PXkwKF4hnCPo4wLf1C3u8oh8uk0SZhNIjs9D\nGDFK9JeXXGrJJ++GiEc/whG3LjgPbj7SgwAYRtDeoL22yhZVUyQVNeYcLzpegFSh\n1LTiSDWdy7zWFWIywjIyemeWFFzNnz4HeyviwMpQ2QKBgQD+UauTHCEouE14zHPN\nh8eq5mP95YP6xXw1rnWipIKdWKQs21TW5DIEppBKsKlZZABCTLSOaGDPs6bVNqtW\nndROWub8q9wiWSUws/frViTdpy5le0JE+dCFiV78eoXV114T5CQsbdM3X/GT4D9h\nUejV2fMbxwjizaAArkuMRJyd9QKBgQDbpXfDkpgxXqijMdzsY0unMdgsntuq0S8R\naZYShaD6Lw5MqUKjf0Kfh4/iVfxLvDDYYLz/F+B0pp4exxxjHKoUpbSAhTkDFd+Y\nYq17LkqG3PO1P7QY2qNiG3oOJDKp5ma4ZwpmqPZh+J9G4dtOGS6DzAHalRF4ewRM\n6MKJ+bFCNQKBgQDeKzKb3SMKk5b6RIGVt1wya/pGP07Ar+0GaFXTs6t3EYy6sxC2\nebtIXMoItbP7p2SihqflEEIisGq6MHwVuuNRYBASA4DXcNEQbufR6vthtz7M4JTP\n9Py463zTS6XHXdGNxuvi9D5kTaiY6nnz5r5ks3WxenrEx6VTcvAEpZu8UQKBgQDI\nD24Hn8Wp6is2AdvVIBgvYJIjCkrQypnRhVeg5UAbwLKIlv7QhsB7J/GhWWpk3TOs\nUmiy/N9/wKdzJy6vA9PS3J+NFEs6iTjQxsh201IkhqogI7b5kGOSn65LpSLUZ7yW\nJ5xsp2dLEzaYTG4BM6SPfUkO/AoesAXZu4Q+QkT3JQKBgQCQtmCIr/QvD4aM+Yhr\nyQ5Htim4axV2Rb8a7hfISR61AfznirUIiaxXNzMyenwdbFwRm1pzRMpt7E2+Vefy\nGwCtexoVchG+o+RhJKNT/Y+rKpDg9tExTSZqNehh2G/XZAVHJBsZNKN9ni7PRIut\n+gWdORaVUf/ZgECBpLklOVA+yg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pd-diabetes@ped-dev-308120.iam.gserviceaccount.com",
+  "client_id": "105014855871242383014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pd-diabetes%40ped-dev-308120.iam.gserviceaccount.com"
+}
