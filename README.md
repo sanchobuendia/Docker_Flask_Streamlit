@@ -84,6 +84,10 @@ docker build -t streamlitapp:latest .
 
 docker run -p 8501:8501 streamlitapp:latest
 
+## docker from Github
+
+docker build github.com/sanchobuendia/Template_Streamlit.git 
+
 ## docker compose 
 
 docker-compose build
