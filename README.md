@@ -1,24 +1,12 @@
-# Streamlit template
+# Docker Compose + Flask + Streamlit
 
-This repositorie has the as main goal to be a litle bit more than a "Hello World" in streamlit describing in detail steps such as: create python venv, basic dschboard, running localy, running in docker and implamentation in Google APP Engine.
+docker-compose build 
 
-The dashboard template has a left three with all parameters configuration and on the right it is possible to choose one of the three possible pages: analytics, rules and patients.
+docker-compose up 
 
-![image](images/three.png)
+#### run in detached mode using -d
 
-The page options are as follows
-
-![image](images/list_pages.png)
-
-Analytics page
-![image](images/analytics.png)
-
-Rules page
-![image](images/rules.png)
-
-Patients page
-![image](images/patients.png)
-
+docker-compose build -d
 
 Initially, to run the Streamlit localy is more interesting to create a python venv and to install all packages that your application needs inside the venv. The purpose of this is to avoid conflicts with packages already installed on the machine.
 
