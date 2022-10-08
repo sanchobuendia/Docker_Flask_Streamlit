@@ -11,7 +11,7 @@ services:
 
   app:
     container_name: appstreamlit
-    build: streamlit.
+    build: streamlit/.
     command: "streamlit run --server.port 8080 --server.enableCORS false app.py"
     ports:
       - "8501:8501"
