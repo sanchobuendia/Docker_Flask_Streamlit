@@ -1,8 +1,21 @@
-version: "3.7"
+version: "3"
 services:
-  web:
-    build: .
+  api:
+    container_name: apiflask
+    build: flask/.
+    command: "uvicorn api:app --host 0.0.0.0 --port 8000 --reload"
     ports:
-      - "8080"
-  redis:
-    image: "redis:alpine"
+      - "8000:8000"
+    networks: 
+      - jcnet
+
+  app:
+    container_name: appstreamlit
+    build: streamlit.
+    command: "streamlit run --server.port 8080 --server.enableCORS false app.py"
+    ports:
+      - "8501:8501"
+    networks:
+      - jcnet
+networks:
+  jcnet

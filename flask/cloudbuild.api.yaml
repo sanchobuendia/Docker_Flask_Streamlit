@@ -1,0 +1,10 @@
+steps:
+- name: "gcr.io/cloud-builders/docker"
+  entrypoint: 'bash'
+  args:
+  - -c
+  - |
+    docker buildx build --no-cache -t gcr.io/id-project/apiflask -f Dockerfile.api . --push
+    
+# gcloud builds submit --config cloudbuild.api.yaml .
+# gcloud run deploy apiflask --image gcr.io/id-project/apiflask:latest

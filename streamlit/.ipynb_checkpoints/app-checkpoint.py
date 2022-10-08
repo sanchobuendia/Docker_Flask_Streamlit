@@ -79,8 +79,6 @@ res = sns.heatmap(corr, vmin=-1, vmax=1, center=0,cbar_kws={'shrink': 0.7},
             square=True, annot=True, mask=matrix, annot_kws={'size': 4}
             )
 
-#res.set_xticklabels(res.get_xmajorticklabels(), fontsize = 6)
-#res.set_yticklabels(res.get_xmajorticklabels(), fontsize = 6)
 
 ax.set_xticklabels(
                 ax.get_xticklabels(),
