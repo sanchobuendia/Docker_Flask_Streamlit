@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "flask-streamlit"
+version = "0.1.0"
+description = ""
+authors = ["Aureliano Sancho <sanchobuendia@gmail.com>"]
+readme = "README.md"
+packages = [{include = "flask_streamlit"}]
+repository = "https://github.com/sanchobuendia/Docker_Flask_Streamlit.git"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+Flask = "2.0.2"
+pandas = '1.4.3'
+numpy = '1.23.1'
+requests = "2.26.0"
+gunicorn = "20.1.0"
+yfinance = '0.1.70'
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
